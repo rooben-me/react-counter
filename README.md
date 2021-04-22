@@ -1,5 +1,7 @@
 # React counter
 
-### Only keep App.js App.css Index.js in src folder
+#### if you are starting with create-react-app,
 
-`copy and paste these files to your own react app or just clone this repo`
+#### delete all files in the src folder except App.js, App.css, Index.js
+
+`if you dont want to do that just clone this repo`
