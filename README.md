@@ -1,7 +1,17 @@
 # React counter
 
-#### if you are starting with create-react-app,
+## If you are starting with create-react-app,
 
-#### delete all files in the src folder except App.js, App.css, Index.js
+#### Delete all files in the src folder except App.js, App.css, Index.js
 
-`if you dont want to do that just clone this repo`
+## If you dont want to do that just clone this repo`
+
+#### Open terminal inside the directory, type
+
+`npm install`
+
+#### React will install the dependancies and type
+
+`npm start`
+
+#### to start the app
